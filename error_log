@@ -1,0 +1,915 @@
+[14-Nov-2019 04:27:04 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 666
+[14-Nov-2019 04:27:04 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 666
+[14-Nov-2019 04:27:04 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/home.php on line 1
+[14-Nov-2019 04:29:10 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 103
+[14-Nov-2019 04:29:10 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 103
+[14-Nov-2019 04:29:10 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/home.php on line 1
+[14-Nov-2019 04:37:09 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/public_html/views/header.php on line 2
+[14-Nov-2019 04:37:09 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[14-Nov-2019 04:37:09 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[14-Nov-2019 04:37:09 UTC] PHP Notice:  Undefined index: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[14-Nov-2019 04:37:09 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[14-Nov-2019 04:37:09 UTC] PHP Notice:  Undefined variable: delay in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 8
+[14-Nov-2019 04:37:09 UTC] PHP Notice:  Undefined variable: regErr in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 85
+[14-Nov-2019 04:37:09 UTC] PHP Notice:  Undefined variable: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 91
+[14-Nov-2019 04:37:19 UTC] PHP Warning:  fopen(/home/djkm6in9pewh/cis4270/PHP_Fashion/access/dbAccess.csv): failed to open stream: No such file or directory in /home/djkm6in9pewh/cis4270/common/db/DBAccessAdjusted.php on line 84
+[14-Nov-2019 04:37:19 UTC] PHP Warning:  fgetcsv() expects parameter 1 to be resource, bool given in /home/djkm6in9pewh/cis4270/common/db/DBAccessAdjusted.php on line 85
+[14-Nov-2019 04:37:19 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /home/djkm6in9pewh/cis4270/common/db/DBAccessAdjusted.php on line 86
+[14-Nov-2019 04:37:19 UTC] PHP Warning:  include(/home/djkm6in9pewh/cis4270/views/databaseError.php): failed to open stream: No such file or directory in /home/djkm6in9pewh/cis4270/common/db/DBAccessAdjusted.php on line 48
+[14-Nov-2019 04:37:19 UTC] PHP Warning:  include(): Failed opening '/home/djkm6in9pewh/cis4270/views/databaseError.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/djkm6in9pewh/cis4270/common/db/DBAccessAdjusted.php on line 48
+[14-Nov-2019 07:59:28 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[14-Nov-2019 07:59:28 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[14-Nov-2019 07:59:28 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/home.php on line 1
+[14-Nov-2019 09:24:19 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[14-Nov-2019 09:24:19 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[14-Nov-2019 09:24:19 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/home.php on line 1
+[14-Nov-2019 09:24:19 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[14-Nov-2019 09:24:19 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[14-Nov-2019 09:24:19 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/home.php on line 1
+[14-Nov-2019 09:24:32 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/public_html/views/header.php on line 2
+[14-Nov-2019 09:24:32 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[14-Nov-2019 09:24:32 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[14-Nov-2019 09:24:32 UTC] PHP Notice:  Undefined index: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[14-Nov-2019 09:24:32 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[14-Nov-2019 09:24:32 UTC] PHP Notice:  Undefined variable: delay in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 8
+[14-Nov-2019 09:24:32 UTC] PHP Notice:  Undefined variable: regErr in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 85
+[14-Nov-2019 09:24:32 UTC] PHP Notice:  Undefined variable: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 91
+[14-Nov-2019 09:24:52 UTC] PHP Warning:  fopen(/home/djkm6in9pewh/cis4270/PHP_Fashion/access/dbAccess.csv): failed to open stream: No such file or directory in /home/djkm6in9pewh/cis4270/common/db/DBAccessAdjusted.php on line 84
+[14-Nov-2019 09:24:52 UTC] PHP Warning:  fgetcsv() expects parameter 1 to be resource, bool given in /home/djkm6in9pewh/cis4270/common/db/DBAccessAdjusted.php on line 85
+[14-Nov-2019 09:24:52 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /home/djkm6in9pewh/cis4270/common/db/DBAccessAdjusted.php on line 86
+[14-Nov-2019 09:24:52 UTC] PHP Warning:  include(/home/djkm6in9pewh/cis4270/views/databaseError.php): failed to open stream: No such file or directory in /home/djkm6in9pewh/cis4270/common/db/DBAccessAdjusted.php on line 48
+[14-Nov-2019 09:24:52 UTC] PHP Warning:  include(): Failed opening '/home/djkm6in9pewh/cis4270/views/databaseError.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/djkm6in9pewh/cis4270/common/db/DBAccessAdjusted.php on line 48
+[14-Nov-2019 09:29:55 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[14-Nov-2019 09:29:55 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[14-Nov-2019 09:29:55 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/home.php on line 1
+[14-Nov-2019 09:30:48 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[14-Nov-2019 09:30:48 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[14-Nov-2019 09:30:48 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/home.php on line 1
+[14-Nov-2019 09:45:35 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[14-Nov-2019 09:45:35 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[14-Nov-2019 09:45:35 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/aboutUs.php on line 1
+[14-Nov-2019 09:45:41 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/public_html/views/header.php on line 2
+[14-Nov-2019 09:45:41 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[14-Nov-2019 09:45:41 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[14-Nov-2019 09:45:41 UTC] PHP Notice:  Undefined index: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[14-Nov-2019 09:45:41 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[14-Nov-2019 09:45:41 UTC] PHP Notice:  Undefined variable: delay in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 8
+[14-Nov-2019 09:45:41 UTC] PHP Notice:  Undefined variable: regErr in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 85
+[14-Nov-2019 09:45:41 UTC] PHP Notice:  Undefined variable: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 91
+[14-Nov-2019 09:45:42 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/public_html/views/header.php on line 2
+[14-Nov-2019 09:45:42 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[14-Nov-2019 09:45:42 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[14-Nov-2019 09:45:42 UTC] PHP Notice:  Undefined index: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[14-Nov-2019 09:45:42 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[14-Nov-2019 09:45:42 UTC] PHP Notice:  Undefined variable: delay in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 8
+[14-Nov-2019 09:45:42 UTC] PHP Notice:  Undefined variable: regErr in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 85
+[14-Nov-2019 09:45:42 UTC] PHP Notice:  Undefined variable: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 91
+[14-Nov-2019 09:45:44 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[14-Nov-2019 09:45:44 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[14-Nov-2019 09:45:44 UTC] PHP Notice:  Undefined index: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[14-Nov-2019 09:45:44 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[14-Nov-2019 09:45:44 UTC] PHP Notice:  Undefined variable: delay in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 8
+[14-Nov-2019 09:45:44 UTC] PHP Notice:  Undefined variable: regErr in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 85
+[14-Nov-2019 09:45:44 UTC] PHP Notice:  Undefined variable: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 91
+[14-Nov-2019 09:45:47 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[14-Nov-2019 09:45:47 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[14-Nov-2019 09:45:47 UTC] PHP Notice:  Undefined index: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[14-Nov-2019 09:45:47 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[14-Nov-2019 09:45:47 UTC] PHP Notice:  Undefined variable: delay in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 8
+[14-Nov-2019 09:45:47 UTC] PHP Notice:  Undefined variable: regErr in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 85
+[14-Nov-2019 09:45:47 UTC] PHP Notice:  Undefined variable: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 91
+[14-Nov-2019 09:45:49 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/public_html/views/header.php on line 2
+[14-Nov-2019 09:45:49 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[14-Nov-2019 09:45:49 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[14-Nov-2019 09:45:49 UTC] PHP Notice:  Undefined index: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[14-Nov-2019 09:45:49 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[14-Nov-2019 09:45:49 UTC] PHP Notice:  Undefined variable: delay in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 8
+[14-Nov-2019 09:45:49 UTC] PHP Notice:  Undefined variable: regErr in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 85
+[14-Nov-2019 09:45:49 UTC] PHP Notice:  Undefined variable: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 91
+[14-Nov-2019 10:08:49 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[14-Nov-2019 10:08:49 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[14-Nov-2019 10:08:49 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/home.php on line 1
+[14-Nov-2019 10:08:55 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/public_html/views/header.php on line 2
+[14-Nov-2019 10:08:55 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[14-Nov-2019 10:08:55 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[14-Nov-2019 10:08:55 UTC] PHP Notice:  Undefined index: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[14-Nov-2019 10:08:55 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[14-Nov-2019 10:08:55 UTC] PHP Notice:  Undefined variable: delay in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 8
+[14-Nov-2019 10:08:55 UTC] PHP Notice:  Undefined variable: regErr in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 85
+[14-Nov-2019 10:08:55 UTC] PHP Notice:  Undefined variable: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 91
+[14-Nov-2019 10:09:05 UTC] PHP Notice:  Undefined offset: 2 in /home/djkm6in9pewh/cis4270/common/db/DBAccessAdjusted.php on line 35
+[14-Nov-2019 10:09:05 UTC] PHP Notice:  Undefined offset: 3 in /home/djkm6in9pewh/cis4270/common/db/DBAccessAdjusted.php on line 35
+[14-Nov-2019 10:09:05 UTC] PHP Warning:  include(/home/djkm6in9pewh/cis4270/views/databaseError.php): failed to open stream: No such file or directory in /home/djkm6in9pewh/cis4270/common/db/DBAccessAdjusted.php on line 48
+[14-Nov-2019 10:09:05 UTC] PHP Warning:  include(): Failed opening '/home/djkm6in9pewh/cis4270/views/databaseError.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/djkm6in9pewh/cis4270/common/db/DBAccessAdjusted.php on line 48
+[14-Nov-2019 10:12:17 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/public_html/views/header.php on line 2
+[14-Nov-2019 10:12:17 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[14-Nov-2019 10:12:17 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[14-Nov-2019 10:12:17 UTC] PHP Notice:  Undefined index: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[14-Nov-2019 10:12:17 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[14-Nov-2019 10:12:17 UTC] PHP Notice:  Undefined variable: delay in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 8
+[14-Nov-2019 10:12:17 UTC] PHP Notice:  Undefined variable: regErr in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 85
+[14-Nov-2019 10:12:17 UTC] PHP Notice:  Undefined variable: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 91
+[14-Nov-2019 10:12:21 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[14-Nov-2019 10:12:21 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[14-Nov-2019 10:12:21 UTC] PHP Notice:  Undefined index: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[14-Nov-2019 10:12:21 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[14-Nov-2019 10:12:22 UTC] PHP Notice:  Undefined variable: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 91
+[14-Nov-2019 10:12:28 UTC] PHP Notice:  Undefined offset: 2 in /home/djkm6in9pewh/cis4270/common/db/DBAccessAdjusted.php on line 35
+[14-Nov-2019 10:12:28 UTC] PHP Notice:  Undefined offset: 3 in /home/djkm6in9pewh/cis4270/common/db/DBAccessAdjusted.php on line 35
+[14-Nov-2019 10:12:28 UTC] PHP Warning:  include(/home/djkm6in9pewh/cis4270/views/databaseError.php): failed to open stream: No such file or directory in /home/djkm6in9pewh/cis4270/common/db/DBAccessAdjusted.php on line 49
+[14-Nov-2019 10:12:28 UTC] PHP Warning:  include(): Failed opening '/home/djkm6in9pewh/cis4270/views/databaseError.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/djkm6in9pewh/cis4270/common/db/DBAccessAdjusted.php on line 49
+[14-Nov-2019 11:49:33 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[14-Nov-2019 11:49:33 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[14-Nov-2019 11:49:33 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/home.php on line 1
+[14-Nov-2019 11:49:33 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[14-Nov-2019 11:49:33 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[14-Nov-2019 11:49:33 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/home.php on line 1
+[14-Nov-2019 11:49:38 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/public_html/views/header.php on line 2
+[14-Nov-2019 11:49:38 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[14-Nov-2019 11:49:38 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[14-Nov-2019 11:49:38 UTC] PHP Notice:  Undefined index: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[14-Nov-2019 11:49:38 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[14-Nov-2019 11:49:38 UTC] PHP Notice:  Undefined variable: delay in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 8
+[14-Nov-2019 11:49:38 UTC] PHP Notice:  Undefined variable: regErr in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 85
+[14-Nov-2019 11:49:38 UTC] PHP Notice:  Undefined variable: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 91
+[14-Nov-2019 11:49:42 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/public_html/views/header.php on line 2
+[14-Nov-2019 11:49:42 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[14-Nov-2019 11:49:42 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[14-Nov-2019 11:49:42 UTC] PHP Notice:  Undefined index: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[14-Nov-2019 11:49:42 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[14-Nov-2019 11:49:42 UTC] PHP Notice:  Undefined variable: delay in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 8
+[14-Nov-2019 11:49:42 UTC] PHP Notice:  Undefined variable: regErr in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 85
+[14-Nov-2019 11:49:42 UTC] PHP Notice:  Undefined variable: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 91
+[14-Nov-2019 21:40:59 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[14-Nov-2019 21:40:59 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[14-Nov-2019 21:40:59 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/home.php on line 1
+[14-Nov-2019 21:41:00 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[14-Nov-2019 21:41:00 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[14-Nov-2019 21:41:00 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/home.php on line 1
+[14-Nov-2019 21:46:11 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[14-Nov-2019 21:46:11 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[14-Nov-2019 21:46:11 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/home.php on line 1
+[14-Nov-2019 21:46:19 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[14-Nov-2019 21:46:19 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[14-Nov-2019 21:46:19 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/home.php on line 1
+[14-Nov-2019 23:28:27 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[14-Nov-2019 23:28:27 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[14-Nov-2019 23:28:27 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/home.php on line 1
+[14-Nov-2019 23:58:14 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[14-Nov-2019 23:58:14 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[14-Nov-2019 23:58:14 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/home.php on line 1
+[14-Nov-2019 23:58:26 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/public_html/views/header.php on line 2
+[14-Nov-2019 23:58:26 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[14-Nov-2019 23:58:26 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[14-Nov-2019 23:58:26 UTC] PHP Notice:  Undefined index: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[14-Nov-2019 23:58:26 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[14-Nov-2019 23:58:26 UTC] PHP Notice:  Undefined variable: delay in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 8
+[14-Nov-2019 23:58:26 UTC] PHP Notice:  Undefined variable: regErr in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 85
+[14-Nov-2019 23:58:26 UTC] PHP Notice:  Undefined variable: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 91
+[14-Nov-2019 23:59:30 UTC] PHP Notice:  Undefined offset: 2 in /home/djkm6in9pewh/cis4270/common/db/DBAccessAdjusted.php on line 35
+[14-Nov-2019 23:59:30 UTC] PHP Notice:  Undefined offset: 3 in /home/djkm6in9pewh/cis4270/common/db/DBAccessAdjusted.php on line 35
+[15-Nov-2019 00:02:26 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/public_html/views/header.php on line 2
+[15-Nov-2019 00:02:26 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:02:26 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:02:26 UTC] PHP Notice:  Undefined index: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 00:02:26 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 00:02:26 UTC] PHP Notice:  Undefined variable: delay in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 8
+[15-Nov-2019 00:02:26 UTC] PHP Notice:  Undefined variable: regErr in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 85
+[15-Nov-2019 00:02:26 UTC] PHP Notice:  Undefined variable: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 91
+[15-Nov-2019 00:02:28 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:02:28 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:02:28 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/aboutUs.php on line 1
+[15-Nov-2019 00:02:35 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:02:35 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:02:35 UTC] PHP Notice:  Undefined index: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 00:02:35 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 00:02:35 UTC] PHP Notice:  Undefined variable: delay in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 8
+[15-Nov-2019 00:02:35 UTC] PHP Notice:  Undefined variable: regErr in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 85
+[15-Nov-2019 00:02:35 UTC] PHP Notice:  Undefined variable: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 91
+[15-Nov-2019 00:02:45 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:02:45 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:02:45 UTC] PHP Notice:  Undefined index: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 00:02:45 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 00:02:45 UTC] PHP Notice:  Undefined variable: delay in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 8
+[15-Nov-2019 00:02:45 UTC] PHP Notice:  Undefined variable: regErr in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 85
+[15-Nov-2019 00:02:45 UTC] PHP Notice:  Undefined variable: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 91
+[15-Nov-2019 00:02:47 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/public_html/views/header.php on line 2
+[15-Nov-2019 00:02:47 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:02:47 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:02:47 UTC] PHP Notice:  Undefined index: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 00:02:47 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 00:02:47 UTC] PHP Notice:  Undefined variable: delay in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 8
+[15-Nov-2019 00:02:47 UTC] PHP Notice:  Undefined variable: regErr in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 85
+[15-Nov-2019 00:02:47 UTC] PHP Notice:  Undefined variable: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 91
+[15-Nov-2019 00:03:04 UTC] PHP Notice:  Undefined offset: 2 in /home/djkm6in9pewh/cis4270/common/db/DBAccessAdjusted.php on line 35
+[15-Nov-2019 00:03:04 UTC] PHP Notice:  Undefined offset: 3 in /home/djkm6in9pewh/cis4270/common/db/DBAccessAdjusted.php on line 35
+[15-Nov-2019 00:07:56 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/public_html/views/header.php on line 2
+[15-Nov-2019 00:07:56 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:07:56 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:07:56 UTC] PHP Notice:  Undefined index: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 00:07:56 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 00:07:56 UTC] PHP Notice:  Undefined variable: delay in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 8
+[15-Nov-2019 00:07:56 UTC] PHP Notice:  Undefined variable: regErr in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 85
+[15-Nov-2019 00:07:56 UTC] PHP Notice:  Undefined variable: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 91
+[15-Nov-2019 00:08:02 UTC] PHP Notice:  Undefined offset: 2 in /home/djkm6in9pewh/cis4270/common/db/DBAccessAdjusted.php on line 35
+[15-Nov-2019 00:08:02 UTC] PHP Notice:  Undefined offset: 3 in /home/djkm6in9pewh/cis4270/common/db/DBAccessAdjusted.php on line 35
+[15-Nov-2019 00:08:34 UTC] PHP Notice:  Undefined offset: 2 in /home/djkm6in9pewh/cis4270/common/db/DBAccessAdjusted.php on line 35
+[15-Nov-2019 00:08:34 UTC] PHP Notice:  Undefined offset: 3 in /home/djkm6in9pewh/cis4270/common/db/DBAccessAdjusted.php on line 35
+[15-Nov-2019 00:08:43 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:08:43 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:08:43 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/home.php on line 1
+[15-Nov-2019 00:08:48 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/public_html/views/header.php on line 2
+[15-Nov-2019 00:08:48 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:08:48 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:08:48 UTC] PHP Notice:  Undefined index: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 00:08:48 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 00:08:48 UTC] PHP Notice:  Undefined variable: delay in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 8
+[15-Nov-2019 00:08:48 UTC] PHP Notice:  Undefined variable: regErr in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 85
+[15-Nov-2019 00:08:48 UTC] PHP Notice:  Undefined variable: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 91
+[15-Nov-2019 00:08:59 UTC] PHP Notice:  Undefined offset: 2 in /home/djkm6in9pewh/cis4270/common/db/DBAccessAdjusted.php on line 35
+[15-Nov-2019 00:08:59 UTC] PHP Notice:  Undefined offset: 3 in /home/djkm6in9pewh/cis4270/common/db/DBAccessAdjusted.php on line 35
+[15-Nov-2019 00:12:02 UTC] PHP Notice:  Undefined property: RegisterVM::$enteredUserEmail in /home/djkm6in9pewh/cis4270/PHP_Fashion/viewModels/RegisterVM.php on line 64
+[15-Nov-2019 00:12:02 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/public_html/views/header.php on line 2
+[15-Nov-2019 00:12:02 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/userHome.php on line 3
+[15-Nov-2019 00:12:08 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:12:08 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:12:08 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/home.php on line 1
+[15-Nov-2019 00:12:11 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/public_html/views/header.php on line 2
+[15-Nov-2019 00:12:11 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:12:11 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:12:11 UTC] PHP Notice:  Undefined index: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 00:12:11 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 00:12:11 UTC] PHP Notice:  Undefined variable: delay in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 8
+[15-Nov-2019 00:12:11 UTC] PHP Notice:  Undefined variable: regErr in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 85
+[15-Nov-2019 00:12:11 UTC] PHP Notice:  Undefined variable: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 91
+[15-Nov-2019 00:12:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bindValue() on bool in /home/djkm6in9pewh/cis4270/PHP_Fashion/db/UserDAM.php:26
+Stack trace:
+#0 /home/djkm6in9pewh/cis4270/PHP_Fashion/viewModels/LoginVM.php(33): UserDAM->readUser('test@mail.com')
+#1 /home/djkm6in9pewh/cis4270/PHP_Fashion/controllers/UserController.php(63): LoginVM::getInstance()
+#2 /home/djkm6in9pewh/cis4270/PHP_Fashion/controllers/DefaultController.php(25): UserController->loginPOST(Object(MessageVM))
+#3 /home/djkm6in9pewh/public_html/index.php(89): DefaultController->run('loginPOST', Object(MessageVM))
+#4 {main}
+  thrown in /home/djkm6in9pewh/cis4270/PHP_Fashion/db/UserDAM.php on line 26
+[15-Nov-2019 00:14:13 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:14:13 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:14:13 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/home.php on line 1
+[15-Nov-2019 00:14:15 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/public_html/views/header.php on line 2
+[15-Nov-2019 00:14:15 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:14:15 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:14:15 UTC] PHP Notice:  Undefined index: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 00:14:15 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 00:14:15 UTC] PHP Notice:  Undefined variable: delay in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 8
+[15-Nov-2019 00:14:15 UTC] PHP Notice:  Undefined variable: regErr in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 85
+[15-Nov-2019 00:14:15 UTC] PHP Notice:  Undefined variable: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 91
+[15-Nov-2019 00:14:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bindValue() on bool in /home/djkm6in9pewh/cis4270/PHP_Fashion/db/UserDAM.php:26
+Stack trace:
+#0 /home/djkm6in9pewh/cis4270/PHP_Fashion/viewModels/LoginVM.php(33): UserDAM->readUser('test@mail.com')
+#1 /home/djkm6in9pewh/cis4270/PHP_Fashion/controllers/UserController.php(63): LoginVM::getInstance()
+#2 /home/djkm6in9pewh/cis4270/PHP_Fashion/controllers/DefaultController.php(25): UserController->loginPOST(Object(MessageVM))
+#3 /home/djkm6in9pewh/public_html/index.php(89): DefaultController->run('loginPOST', Object(MessageVM))
+#4 {main}
+  thrown in /home/djkm6in9pewh/cis4270/PHP_Fashion/db/UserDAM.php on line 26
+[15-Nov-2019 00:14:25 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/public_html/views/header.php on line 2
+[15-Nov-2019 00:14:25 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:14:25 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:14:25 UTC] PHP Notice:  Undefined index: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 00:14:25 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 00:14:25 UTC] PHP Notice:  Undefined variable: delay in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 8
+[15-Nov-2019 00:14:25 UTC] PHP Notice:  Undefined variable: regErr in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 85
+[15-Nov-2019 00:14:25 UTC] PHP Notice:  Undefined variable: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 91
+[15-Nov-2019 00:14:30 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/public_html/views/header.php on line 2
+[15-Nov-2019 00:14:30 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:14:30 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:14:30 UTC] PHP Notice:  Undefined index: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 00:14:30 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 00:14:30 UTC] PHP Notice:  Undefined variable: delay in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 8
+[15-Nov-2019 00:14:30 UTC] PHP Notice:  Undefined variable: regErr in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 85
+[15-Nov-2019 00:14:30 UTC] PHP Notice:  Undefined variable: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 91
+[15-Nov-2019 00:14:44 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:14:44 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:14:44 UTC] PHP Notice:  Undefined index: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 00:14:44 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 00:14:45 UTC] PHP Notice:  Undefined variable: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 91
+[15-Nov-2019 00:14:58 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:14:58 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:14:58 UTC] PHP Notice:  Undefined index: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 00:14:58 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 00:14:59 UTC] PHP Notice:  Undefined variable: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 91
+[15-Nov-2019 00:15:22 UTC] PHP Notice:  Undefined property: RegisterVM::$enteredUserEmail in /home/djkm6in9pewh/cis4270/PHP_Fashion/viewModels/RegisterVM.php on line 64
+[15-Nov-2019 00:15:22 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/public_html/views/header.php on line 2
+[15-Nov-2019 00:15:22 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/userHome.php on line 3
+[15-Nov-2019 00:17:51 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:17:51 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:17:51 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/home.php on line 1
+[15-Nov-2019 00:17:53 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/public_html/views/header.php on line 2
+[15-Nov-2019 00:17:53 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:17:53 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:17:53 UTC] PHP Notice:  Undefined index: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 00:17:53 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 00:17:53 UTC] PHP Notice:  Undefined variable: delay in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 8
+[15-Nov-2019 00:17:53 UTC] PHP Notice:  Undefined variable: regErr in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 85
+[15-Nov-2019 00:17:53 UTC] PHP Notice:  Undefined variable: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 91
+[15-Nov-2019 00:18:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bindValue() on bool in /home/djkm6in9pewh/cis4270/PHP_Fashion/db/UserDAM.php:26
+Stack trace:
+#0 /home/djkm6in9pewh/cis4270/PHP_Fashion/viewModels/LoginVM.php(33): UserDAM->readUser('test@mail.com')
+#1 /home/djkm6in9pewh/cis4270/PHP_Fashion/controllers/UserController.php(63): LoginVM::getInstance()
+#2 /home/djkm6in9pewh/cis4270/PHP_Fashion/controllers/DefaultController.php(25): UserController->loginPOST(Object(MessageVM))
+#3 /home/djkm6in9pewh/public_html/index.php(89): DefaultController->run('loginPOST', Object(MessageVM))
+#4 {main}
+  thrown in /home/djkm6in9pewh/cis4270/PHP_Fashion/db/UserDAM.php on line 26
+[15-Nov-2019 00:18:53 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/public_html/views/header.php on line 2
+[15-Nov-2019 00:18:53 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:18:53 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:18:53 UTC] PHP Notice:  Undefined index: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 00:18:53 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 00:18:53 UTC] PHP Notice:  Undefined variable: delay in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 8
+[15-Nov-2019 00:18:53 UTC] PHP Notice:  Undefined variable: regErr in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 85
+[15-Nov-2019 00:18:53 UTC] PHP Notice:  Undefined variable: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 91
+[15-Nov-2019 00:19:05 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/public_html/views/header.php on line 2
+[15-Nov-2019 00:19:05 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/userHome.php on line 3
+[15-Nov-2019 00:19:13 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/aboutUs.php on line 1
+[15-Nov-2019 00:19:18 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/public_html/views/header.php on line 2
+[15-Nov-2019 00:19:18 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/newPost.php on line 3
+[15-Nov-2019 00:19:53 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:19:53 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:19:53 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/home.php on line 1
+[15-Nov-2019 00:19:55 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/public_html/views/header.php on line 2
+[15-Nov-2019 00:19:55 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:19:55 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:19:55 UTC] PHP Notice:  Undefined index: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 00:19:55 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 00:19:55 UTC] PHP Notice:  Undefined variable: delay in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 8
+[15-Nov-2019 00:19:55 UTC] PHP Notice:  Undefined variable: regErr in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 85
+[15-Nov-2019 00:19:55 UTC] PHP Notice:  Undefined variable: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 91
+[15-Nov-2019 00:20:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bindValue() on bool in /home/djkm6in9pewh/cis4270/PHP_Fashion/db/UserDAM.php:26
+Stack trace:
+#0 /home/djkm6in9pewh/cis4270/PHP_Fashion/viewModels/LoginVM.php(33): UserDAM->readUser('test@mail.com')
+#1 /home/djkm6in9pewh/cis4270/PHP_Fashion/controllers/UserController.php(63): LoginVM::getInstance()
+#2 /home/djkm6in9pewh/cis4270/PHP_Fashion/controllers/DefaultController.php(25): UserController->loginPOST(Object(MessageVM))
+#3 /home/djkm6in9pewh/public_html/index.php(89): DefaultController->run('loginPOST', Object(MessageVM))
+#4 {main}
+  thrown in /home/djkm6in9pewh/cis4270/PHP_Fashion/db/UserDAM.php on line 26
+[15-Nov-2019 00:21:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bindValue() on bool in /home/djkm6in9pewh/cis4270/PHP_Fashion/db/UserDAM.php:26
+Stack trace:
+#0 /home/djkm6in9pewh/cis4270/PHP_Fashion/viewModels/LoginVM.php(33): UserDAM->readUser('test@mail.com')
+#1 /home/djkm6in9pewh/cis4270/PHP_Fashion/controllers/UserController.php(63): LoginVM::getInstance()
+#2 /home/djkm6in9pewh/cis4270/PHP_Fashion/controllers/DefaultController.php(25): UserController->loginPOST(Object(MessageVM))
+#3 /home/djkm6in9pewh/public_html/index.php(89): DefaultController->run('loginPOST', Object(MessageVM))
+#4 {main}
+  thrown in /home/djkm6in9pewh/cis4270/PHP_Fashion/db/UserDAM.php on line 26
+[15-Nov-2019 00:24:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bindValue() on bool in /home/djkm6in9pewh/cis4270/PHP_Fashion/db/UserDAM.php:26
+Stack trace:
+#0 /home/djkm6in9pewh/cis4270/PHP_Fashion/viewModels/LoginVM.php(33): UserDAM->readUser('test@mail.com')
+#1 /home/djkm6in9pewh/cis4270/PHP_Fashion/controllers/UserController.php(63): LoginVM::getInstance()
+#2 /home/djkm6in9pewh/cis4270/PHP_Fashion/controllers/DefaultController.php(25): UserController->loginPOST(Object(MessageVM))
+#3 /home/djkm6in9pewh/public_html/index.php(89): DefaultController->run('loginPOST', Object(MessageVM))
+#4 {main}
+  thrown in /home/djkm6in9pewh/cis4270/PHP_Fashion/db/UserDAM.php on line 26
+[15-Nov-2019 00:24:15 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:24:15 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:24:15 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/home.php on line 1
+[15-Nov-2019 00:24:18 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/public_html/views/header.php on line 2
+[15-Nov-2019 00:24:18 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:24:18 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:24:18 UTC] PHP Notice:  Undefined index: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 00:24:18 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 00:24:18 UTC] PHP Notice:  Undefined variable: delay in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 8
+[15-Nov-2019 00:24:18 UTC] PHP Notice:  Undefined variable: regErr in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 85
+[15-Nov-2019 00:24:18 UTC] PHP Notice:  Undefined variable: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 91
+[15-Nov-2019 00:24:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bindValue() on bool in /home/djkm6in9pewh/cis4270/PHP_Fashion/db/UserDAM.php:26
+Stack trace:
+#0 /home/djkm6in9pewh/cis4270/PHP_Fashion/viewModels/LoginVM.php(33): UserDAM->readUser('test@mail.com')
+#1 /home/djkm6in9pewh/cis4270/PHP_Fashion/controllers/UserController.php(63): LoginVM::getInstance()
+#2 /home/djkm6in9pewh/cis4270/PHP_Fashion/controllers/DefaultController.php(25): UserController->loginPOST(Object(MessageVM))
+#3 /home/djkm6in9pewh/public_html/index.php(89): DefaultController->run('loginPOST', Object(MessageVM))
+#4 {main}
+  thrown in /home/djkm6in9pewh/cis4270/PHP_Fashion/db/UserDAM.php on line 26
+[15-Nov-2019 00:24:27 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/public_html/views/header.php on line 2
+[15-Nov-2019 00:24:27 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:24:27 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:24:27 UTC] PHP Notice:  Undefined index: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 00:24:27 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 00:24:27 UTC] PHP Notice:  Undefined variable: delay in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 8
+[15-Nov-2019 00:24:27 UTC] PHP Notice:  Undefined variable: regErr in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 85
+[15-Nov-2019 00:24:27 UTC] PHP Notice:  Undefined variable: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 91
+[15-Nov-2019 00:30:00 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/public_html/views/header.php on line 2
+[15-Nov-2019 00:30:00 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:30:00 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:30:00 UTC] PHP Notice:  Undefined index: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 00:30:00 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 00:30:00 UTC] PHP Notice:  Undefined variable: delay in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 8
+[15-Nov-2019 00:30:00 UTC] PHP Notice:  Undefined variable: regErr in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 85
+[15-Nov-2019 00:30:00 UTC] PHP Notice:  Undefined variable: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 91
+[15-Nov-2019 00:30:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bindValue() on bool in /home/djkm6in9pewh/cis4270/PHP_Fashion/db/UserDAM.php:26
+Stack trace:
+#0 /home/djkm6in9pewh/cis4270/PHP_Fashion/viewModels/LoginVM.php(33): UserDAM->readUser('test@mail.com')
+#1 /home/djkm6in9pewh/cis4270/PHP_Fashion/controllers/UserController.php(63): LoginVM::getInstance()
+#2 /home/djkm6in9pewh/cis4270/PHP_Fashion/controllers/DefaultController.php(25): UserController->loginPOST(Object(MessageVM))
+#3 /home/djkm6in9pewh/public_html/index.php(89): DefaultController->run('loginPOST', Object(MessageVM))
+#4 {main}
+  thrown in /home/djkm6in9pewh/cis4270/PHP_Fashion/db/UserDAM.php on line 26
+[15-Nov-2019 00:41:43 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:41:43 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:41:43 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/home.php on line 1
+[15-Nov-2019 00:41:43 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:41:43 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:41:43 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/home.php on line 1
+[15-Nov-2019 00:41:47 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/public_html/views/header.php on line 2
+[15-Nov-2019 00:41:47 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:41:47 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:41:47 UTC] PHP Notice:  Undefined index: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 00:41:47 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 00:41:47 UTC] PHP Notice:  Undefined variable: delay in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 8
+[15-Nov-2019 00:41:47 UTC] PHP Notice:  Undefined variable: regErr in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 85
+[15-Nov-2019 00:41:47 UTC] PHP Notice:  Undefined variable: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 91
+[15-Nov-2019 00:41:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bindValue() on bool in /home/djkm6in9pewh/cis4270/PHP_Fashion/db/UserDAM.php:26
+Stack trace:
+#0 /home/djkm6in9pewh/cis4270/PHP_Fashion/viewModels/LoginVM.php(33): UserDAM->readUser('test@mail.com')
+#1 /home/djkm6in9pewh/cis4270/PHP_Fashion/controllers/UserController.php(63): LoginVM::getInstance()
+#2 /home/djkm6in9pewh/cis4270/PHP_Fashion/controllers/DefaultController.php(25): UserController->loginPOST(Object(MessageVM))
+#3 /home/djkm6in9pewh/public_html/index.php(89): DefaultController->run('loginPOST', Object(MessageVM))
+#4 {main}
+  thrown in /home/djkm6in9pewh/cis4270/PHP_Fashion/db/UserDAM.php on line 26
+[15-Nov-2019 00:41:54 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/public_html/views/header.php on line 2
+[15-Nov-2019 00:41:54 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:41:54 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:41:54 UTC] PHP Notice:  Undefined index: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 00:41:54 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 00:41:54 UTC] PHP Notice:  Undefined variable: delay in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 8
+[15-Nov-2019 00:41:54 UTC] PHP Notice:  Undefined variable: regErr in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 85
+[15-Nov-2019 00:41:54 UTC] PHP Notice:  Undefined variable: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 91
+[15-Nov-2019 00:43:23 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:43:23 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:43:23 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/home.php on line 1
+[15-Nov-2019 00:43:24 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/public_html/views/header.php on line 2
+[15-Nov-2019 00:43:24 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:43:24 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:43:24 UTC] PHP Notice:  Undefined index: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 00:43:24 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 00:43:24 UTC] PHP Notice:  Undefined variable: delay in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 8
+[15-Nov-2019 00:43:24 UTC] PHP Notice:  Undefined variable: regErr in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 85
+[15-Nov-2019 00:43:24 UTC] PHP Notice:  Undefined variable: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 91
+[15-Nov-2019 00:43:33 UTC] PHP Notice:  Undefined variable: statement in /home/djkm6in9pewh/cis4270/PHP_Fashion/db/UserDAM.php on line 27
+[15-Nov-2019 00:43:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/djkm6in9pewh/cis4270/PHP_Fashion/db/UserDAM.php:27
+Stack trace:
+#0 /home/djkm6in9pewh/cis4270/PHP_Fashion/viewModels/LoginVM.php(33): UserDAM->readUser('test2@mail.com')
+#1 /home/djkm6in9pewh/cis4270/PHP_Fashion/controllers/UserController.php(63): LoginVM::getInstance()
+#2 /home/djkm6in9pewh/cis4270/PHP_Fashion/controllers/DefaultController.php(25): UserController->loginPOST(Object(MessageVM))
+#3 /home/djkm6in9pewh/public_html/index.php(89): DefaultController->run('loginPOST', Object(MessageVM))
+#4 {main}
+  thrown in /home/djkm6in9pewh/cis4270/PHP_Fashion/db/UserDAM.php on line 27
+[15-Nov-2019 00:44:05 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/public_html/views/header.php on line 2
+[15-Nov-2019 00:44:05 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:44:05 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:44:05 UTC] PHP Notice:  Undefined index: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 00:44:05 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 00:44:05 UTC] PHP Notice:  Undefined variable: delay in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 8
+[15-Nov-2019 00:44:05 UTC] PHP Notice:  Undefined variable: regErr in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 85
+[15-Nov-2019 00:44:05 UTC] PHP Notice:  Undefined variable: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 91
+[15-Nov-2019 00:44:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bindValue() on bool in /home/djkm6in9pewh/cis4270/PHP_Fashion/db/UserDAM.php:26
+Stack trace:
+#0 /home/djkm6in9pewh/cis4270/PHP_Fashion/viewModels/LoginVM.php(33): UserDAM->readUser('test2@mail.com')
+#1 /home/djkm6in9pewh/cis4270/PHP_Fashion/controllers/UserController.php(63): LoginVM::getInstance()
+#2 /home/djkm6in9pewh/cis4270/PHP_Fashion/controllers/DefaultController.php(25): UserController->loginPOST(Object(MessageVM))
+#3 /home/djkm6in9pewh/public_html/index.php(89): DefaultController->run('loginPOST', Object(MessageVM))
+#4 {main}
+  thrown in /home/djkm6in9pewh/cis4270/PHP_Fashion/db/UserDAM.php on line 26
+[15-Nov-2019 00:46:04 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/public_html/views/header.php on line 2
+[15-Nov-2019 00:46:04 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:46:04 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:46:04 UTC] PHP Notice:  Undefined index: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 00:46:04 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 00:46:04 UTC] PHP Notice:  Undefined variable: delay in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 8
+[15-Nov-2019 00:46:04 UTC] PHP Notice:  Undefined variable: regErr in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 85
+[15-Nov-2019 00:46:04 UTC] PHP Notice:  Undefined variable: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 91
+[15-Nov-2019 00:46:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bindValue() on bool in /home/djkm6in9pewh/cis4270/PHP_Fashion/db/UserDAM.php:26
+Stack trace:
+#0 /home/djkm6in9pewh/cis4270/PHP_Fashion/viewModels/LoginVM.php(33): UserDAM->readUser('test2@mail.com')
+#1 /home/djkm6in9pewh/cis4270/PHP_Fashion/controllers/UserController.php(63): LoginVM::getInstance()
+#2 /home/djkm6in9pewh/cis4270/PHP_Fashion/controllers/DefaultController.php(25): UserController->loginPOST(Object(MessageVM))
+#3 /home/djkm6in9pewh/public_html/index.php(89): DefaultController->run('loginPOST', Object(MessageVM))
+#4 {main}
+  thrown in /home/djkm6in9pewh/cis4270/PHP_Fashion/db/UserDAM.php on line 26
+[15-Nov-2019 00:46:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bindValue() on bool in /home/djkm6in9pewh/cis4270/PHP_Fashion/db/UserDAM.php:26
+Stack trace:
+#0 /home/djkm6in9pewh/cis4270/PHP_Fashion/viewModels/LoginVM.php(33): UserDAM->readUser('test2@mail.com')
+#1 /home/djkm6in9pewh/cis4270/PHP_Fashion/controllers/UserController.php(63): LoginVM::getInstance()
+#2 /home/djkm6in9pewh/cis4270/PHP_Fashion/controllers/DefaultController.php(25): UserController->loginPOST(Object(MessageVM))
+#3 /home/djkm6in9pewh/public_html/index.php(89): DefaultController->run('loginPOST', Object(MessageVM))
+#4 {main}
+  thrown in /home/djkm6in9pewh/cis4270/PHP_Fashion/db/UserDAM.php on line 26
+[15-Nov-2019 00:53:40 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:53:40 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:53:40 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/home.php on line 1
+[15-Nov-2019 00:53:40 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:53:40 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:53:40 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/home.php on line 1
+[15-Nov-2019 00:53:43 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/public_html/views/header.php on line 2
+[15-Nov-2019 00:53:43 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:53:43 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:53:43 UTC] PHP Notice:  Undefined index: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 00:53:43 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 00:53:43 UTC] PHP Notice:  Undefined variable: delay in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 8
+[15-Nov-2019 00:53:43 UTC] PHP Notice:  Undefined variable: regErr in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 85
+[15-Nov-2019 00:53:43 UTC] PHP Notice:  Undefined variable: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 91
+[15-Nov-2019 00:53:57 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/public_html/views/header.php on line 2
+[15-Nov-2019 00:53:57 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/userHome.php on line 3
+[15-Nov-2019 00:54:02 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/public_html/views/header.php on line 2
+[15-Nov-2019 00:54:02 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/newPost.php on line 3
+[15-Nov-2019 00:54:03 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/public_html/views/header.php on line 2
+[15-Nov-2019 00:54:03 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/userHome.php on line 3
+[15-Nov-2019 00:54:05 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/aboutUs.php on line 1
+[15-Nov-2019 00:54:07 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:54:07 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:54:07 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/home.php on line 1
+[15-Nov-2019 00:54:08 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/public_html/views/header.php on line 2
+[15-Nov-2019 00:54:08 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:54:08 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:54:08 UTC] PHP Notice:  Undefined index: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 00:54:08 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 00:54:08 UTC] PHP Notice:  Undefined variable: delay in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 8
+[15-Nov-2019 00:54:08 UTC] PHP Notice:  Undefined variable: regErr in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 85
+[15-Nov-2019 00:54:08 UTC] PHP Notice:  Undefined variable: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 91
+[15-Nov-2019 00:54:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bindValue() on bool in /home/djkm6in9pewh/cis4270/PHP_Fashion/db/UserDAM.php:26
+Stack trace:
+#0 /home/djkm6in9pewh/cis4270/PHP_Fashion/viewModels/LoginVM.php(33): UserDAM->readUser('qng1997@gmail.c...')
+#1 /home/djkm6in9pewh/cis4270/PHP_Fashion/controllers/UserController.php(63): LoginVM::getInstance()
+#2 /home/djkm6in9pewh/cis4270/PHP_Fashion/controllers/DefaultController.php(25): UserController->loginPOST(Object(MessageVM))
+#3 /home/djkm6in9pewh/public_html/index.php(89): DefaultController->run('loginPOST', Object(MessageVM))
+#4 {main}
+  thrown in /home/djkm6in9pewh/cis4270/PHP_Fashion/db/UserDAM.php on line 26
+[15-Nov-2019 00:58:22 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:58:22 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:58:22 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/home.php on line 1
+[15-Nov-2019 00:58:22 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:58:22 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:58:22 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/home.php on line 1
+[15-Nov-2019 00:58:24 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/public_html/views/header.php on line 2
+[15-Nov-2019 00:58:24 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:58:24 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:58:24 UTC] PHP Notice:  Undefined index: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 00:58:24 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 00:58:24 UTC] PHP Notice:  Undefined variable: delay in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 8
+[15-Nov-2019 00:58:24 UTC] PHP Notice:  Undefined variable: regErr in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 85
+[15-Nov-2019 00:58:24 UTC] PHP Notice:  Undefined variable: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 91
+[15-Nov-2019 00:58:30 UTC] PHP Warning:  PDOStatement::execute() expects parameter 1 to be array, string given in /home/djkm6in9pewh/cis4270/PHP_Fashion/db/UserDAM.php on line 26
+[15-Nov-2019 00:58:30 UTC] PHP Notice:  Trying to get property 'password' of non-object in /home/djkm6in9pewh/cis4270/PHP_Fashion/viewModels/LoginVM.php on line 53
+[15-Nov-2019 00:58:30 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:58:30 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:58:30 UTC] PHP Notice:  Undefined index: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 00:58:30 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 00:58:31 UTC] PHP Notice:  Undefined variable: regErr in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 85
+[15-Nov-2019 00:58:31 UTC] PHP Notice:  Undefined variable: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 91
+[15-Nov-2019 00:58:39 UTC] PHP Warning:  PDOStatement::execute() expects parameter 1 to be array, string given in /home/djkm6in9pewh/cis4270/PHP_Fashion/db/UserDAM.php on line 26
+[15-Nov-2019 00:58:39 UTC] PHP Notice:  Trying to get property 'password' of non-object in /home/djkm6in9pewh/cis4270/PHP_Fashion/viewModels/LoginVM.php on line 53
+[15-Nov-2019 00:58:39 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:58:39 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:58:39 UTC] PHP Notice:  Undefined index: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 00:58:39 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 00:58:40 UTC] PHP Notice:  Undefined variable: regErr in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 85
+[15-Nov-2019 00:58:40 UTC] PHP Notice:  Undefined variable: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 91
+[15-Nov-2019 00:58:53 UTC] PHP Notice:  Trying to get property 'userType' of non-object in /home/djkm6in9pewh/cis4270/PHP_Fashion/controllers/UserController.php on line 137
+[15-Nov-2019 00:58:53 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:58:53 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:58:53 UTC] PHP Notice:  Undefined index: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 00:58:53 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 00:58:54 UTC] PHP Notice:  Undefined variable: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 91
+[15-Nov-2019 00:59:09 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/public_html/views/header.php on line 2
+[15-Nov-2019 00:59:09 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/userHome.php on line 3
+[15-Nov-2019 00:59:13 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:59:13 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:59:13 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/home.php on line 1
+[15-Nov-2019 00:59:15 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/public_html/views/header.php on line 2
+[15-Nov-2019 00:59:15 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:59:15 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:59:15 UTC] PHP Notice:  Undefined index: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 00:59:15 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 00:59:15 UTC] PHP Notice:  Undefined variable: delay in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 8
+[15-Nov-2019 00:59:15 UTC] PHP Notice:  Undefined variable: regErr in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 85
+[15-Nov-2019 00:59:15 UTC] PHP Notice:  Undefined variable: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 91
+[15-Nov-2019 00:59:20 UTC] PHP Warning:  PDOStatement::execute() expects parameter 1 to be array, string given in /home/djkm6in9pewh/cis4270/PHP_Fashion/db/UserDAM.php on line 26
+[15-Nov-2019 00:59:20 UTC] PHP Notice:  Trying to get property 'password' of non-object in /home/djkm6in9pewh/cis4270/PHP_Fashion/viewModels/LoginVM.php on line 53
+[15-Nov-2019 00:59:20 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:59:20 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 00:59:20 UTC] PHP Notice:  Undefined index: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 00:59:20 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 00:59:21 UTC] PHP Notice:  Undefined variable: regErr in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 85
+[15-Nov-2019 00:59:21 UTC] PHP Notice:  Undefined variable: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 91
+[15-Nov-2019 01:01:17 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ';' in /home/djkm6in9pewh/cis4270/PHP_Fashion/viewModels/LoginVM.php on line 53
+[15-Nov-2019 01:01:38 UTC] PHP Warning:  PDOStatement::execute() expects parameter 1 to be array, string given in /home/djkm6in9pewh/cis4270/PHP_Fashion/db/UserDAM.php on line 26
+[15-Nov-2019 01:01:38 UTC] PHP Notice:  Trying to get property 'password' of non-object in /home/djkm6in9pewh/cis4270/PHP_Fashion/viewModels/LoginVM.php on line 54
+[15-Nov-2019 01:01:38 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 01:01:38 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 01:01:38 UTC] PHP Notice:  Undefined index: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 01:01:38 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 01:01:39 UTC] PHP Notice:  Undefined variable: regErr in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 85
+[15-Nov-2019 01:01:39 UTC] PHP Notice:  Undefined variable: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 91
+[15-Nov-2019 01:02:08 UTC] PHP Warning:  PDOStatement::execute() expects parameter 1 to be array, string given in /home/djkm6in9pewh/cis4270/PHP_Fashion/db/UserDAM.php on line 26
+[15-Nov-2019 01:02:08 UTC] PHP Notice:  Trying to get property 'password' of non-object in /home/djkm6in9pewh/cis4270/PHP_Fashion/viewModels/LoginVM.php on line 52
+[15-Nov-2019 01:02:08 UTC] PHP Notice:  Trying to get property 'password' of non-object in /home/djkm6in9pewh/cis4270/PHP_Fashion/viewModels/LoginVM.php on line 55
+[15-Nov-2019 01:02:08 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 01:02:08 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 01:02:08 UTC] PHP Notice:  Undefined index: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 01:02:08 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 01:02:09 UTC] PHP Notice:  Undefined variable: regErr in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 85
+[15-Nov-2019 01:02:09 UTC] PHP Notice:  Undefined variable: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 91
+[15-Nov-2019 01:02:23 UTC] PHP Warning:  PDOStatement::execute() expects parameter 1 to be array, string given in /home/djkm6in9pewh/cis4270/PHP_Fashion/db/UserDAM.php on line 26
+[15-Nov-2019 01:02:23 UTC] PHP Notice:  Trying to get property 'password' of non-object in /home/djkm6in9pewh/cis4270/PHP_Fashion/viewModels/LoginVM.php on line 52
+[15-Nov-2019 01:02:23 UTC] PHP Notice:  Trying to get property 'password' of non-object in /home/djkm6in9pewh/cis4270/PHP_Fashion/viewModels/LoginVM.php on line 55
+[15-Nov-2019 01:02:23 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 01:02:23 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 01:02:23 UTC] PHP Notice:  Undefined index: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 01:02:23 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 01:02:24 UTC] PHP Notice:  Undefined variable: regErr in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 85
+[15-Nov-2019 01:02:24 UTC] PHP Notice:  Undefined variable: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 91
+[15-Nov-2019 01:03:04 UTC] PHP Warning:  PDOStatement::execute() expects parameter 1 to be array, string given in /home/djkm6in9pewh/cis4270/PHP_Fashion/db/UserDAM.php on line 26
+[15-Nov-2019 01:03:04 UTC] PHP Notice:  Trying to get property 'password' of non-object in /home/djkm6in9pewh/cis4270/PHP_Fashion/viewModels/LoginVM.php on line 56
+[15-Nov-2019 01:03:04 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 01:03:04 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 01:03:04 UTC] PHP Notice:  Undefined index: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 01:03:04 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 01:03:05 UTC] PHP Notice:  Undefined variable: regErr in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 85
+[15-Nov-2019 01:03:05 UTC] PHP Notice:  Undefined variable: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 91
+[15-Nov-2019 01:03:53 UTC] PHP Warning:  PDOStatement::execute() expects parameter 1 to be array, string given in /home/djkm6in9pewh/cis4270/PHP_Fashion/db/UserDAM.php on line 26
+[15-Nov-2019 01:03:53 UTC] PHP Notice:  Trying to get property 'password' of non-object in /home/djkm6in9pewh/cis4270/PHP_Fashion/viewModels/LoginVM.php on line 56
+[15-Nov-2019 01:03:53 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 01:03:53 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 01:03:53 UTC] PHP Notice:  Undefined index: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 01:03:53 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 01:03:54 UTC] PHP Notice:  Undefined variable: regErr in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 85
+[15-Nov-2019 01:03:54 UTC] PHP Notice:  Undefined variable: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 91
+[15-Nov-2019 01:04:39 UTC] PHP Warning:  PDOStatement::execute() expects parameter 1 to be array, string given in /home/djkm6in9pewh/cis4270/PHP_Fashion/db/UserDAM.php on line 26
+[15-Nov-2019 01:04:39 UTC] PHP Notice:  Trying to get property 'password' of non-object in /home/djkm6in9pewh/cis4270/PHP_Fashion/viewModels/LoginVM.php on line 54
+[15-Nov-2019 01:04:39 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 01:04:39 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 01:04:39 UTC] PHP Notice:  Undefined index: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 01:04:39 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 01:04:40 UTC] PHP Notice:  Undefined variable: regErr in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 85
+[15-Nov-2019 01:04:40 UTC] PHP Notice:  Undefined variable: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 91
+[15-Nov-2019 01:05:10 UTC] PHP Warning:  PDOStatement::execute() expects parameter 1 to be array, string given in /home/djkm6in9pewh/cis4270/PHP_Fashion/db/UserDAM.php on line 26
+[15-Nov-2019 01:05:10 UTC] PHP Notice:  Trying to get property 'password' of non-object in /home/djkm6in9pewh/cis4270/PHP_Fashion/viewModels/LoginVM.php on line 55
+[15-Nov-2019 01:05:10 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 01:05:10 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 01:05:10 UTC] PHP Notice:  Undefined index: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 01:05:10 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 01:05:11 UTC] PHP Notice:  Undefined variable: regErr in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 85
+[15-Nov-2019 01:05:11 UTC] PHP Notice:  Undefined variable: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 91
+[15-Nov-2019 01:07:00 UTC] PHP Warning:  PDOStatement::execute() expects parameter 1 to be array, string given in /home/djkm6in9pewh/cis4270/PHP_Fashion/db/UserDAM.php on line 27
+[15-Nov-2019 01:07:00 UTC] PHP Notice:  Trying to get property 'password' of non-object in /home/djkm6in9pewh/cis4270/PHP_Fashion/viewModels/LoginVM.php on line 53
+[15-Nov-2019 01:07:00 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 01:07:00 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 01:07:00 UTC] PHP Notice:  Undefined index: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 01:07:00 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 01:07:01 UTC] PHP Notice:  Undefined variable: regErr in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 85
+[15-Nov-2019 01:07:01 UTC] PHP Notice:  Undefined variable: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 91
+[15-Nov-2019 01:07:27 UTC] PHP Warning:  PDOStatement::execute() expects parameter 1 to be array, string given in /home/djkm6in9pewh/cis4270/PHP_Fashion/db/UserDAM.php on line 27
+[15-Nov-2019 01:07:27 UTC] PHP Notice:  Trying to get property 'password' of non-object in /home/djkm6in9pewh/cis4270/PHP_Fashion/viewModels/LoginVM.php on line 53
+[15-Nov-2019 01:07:27 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 01:07:27 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 01:07:27 UTC] PHP Notice:  Undefined index: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 01:07:27 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 01:07:28 UTC] PHP Notice:  Undefined variable: regErr in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 85
+[15-Nov-2019 01:07:28 UTC] PHP Notice:  Undefined variable: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 91
+[15-Nov-2019 01:10:04 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/djkm6in9pewh/cis4270/PHP_Fashion/db/phpmysqlconnect.php:14
+Stack trace:
+#0 /home/djkm6in9pewh/cis4270/PHP_Fashion/includes/cis4270Includes.php(25): include_once()
+#1 /home/djkm6in9pewh/public_html/index.php(11): include_once('/home/djkm6in9p...')
+#2 {main}
+  thrown in /home/djkm6in9pewh/cis4270/PHP_Fashion/db/phpmysqlconnect.php on line 14
+[15-Nov-2019 01:11:03 UTC] PHP Notice:  Undefined variable: email in /home/djkm6in9pewh/cis4270/PHP_Fashion/db/phpmysqlconnect.php on line 15
+[15-Nov-2019 01:11:03 UTC] PHP Warning:  PDOStatement::execute() expects parameter 1 to be array, string given in /home/djkm6in9pewh/cis4270/PHP_Fashion/db/phpmysqlconnect.php on line 16
+[15-Nov-2019 01:11:03 UTC] PHP Warning:  PDOStatement::execute() expects parameter 1 to be array, string given in /home/djkm6in9pewh/cis4270/PHP_Fashion/db/UserDAM.php on line 26
+[15-Nov-2019 01:11:03 UTC] PHP Notice:  Trying to get property 'password' of non-object in /home/djkm6in9pewh/cis4270/PHP_Fashion/viewModels/LoginVM.php on line 53
+[15-Nov-2019 01:11:03 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 01:11:03 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 01:11:03 UTC] PHP Notice:  Undefined index: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 01:11:03 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 01:11:04 UTC] PHP Notice:  Undefined variable: regErr in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 85
+[15-Nov-2019 01:11:04 UTC] PHP Notice:  Undefined variable: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 91
+[15-Nov-2019 01:11:31 UTC] PHP Notice:  Undefined variable: email in /home/djkm6in9pewh/cis4270/PHP_Fashion/db/phpmysqlconnect.php on line 15
+[15-Nov-2019 01:11:31 UTC] PHP Warning:  PDOStatement::execute() expects parameter 1 to be array, string given in /home/djkm6in9pewh/cis4270/PHP_Fashion/db/phpmysqlconnect.php on line 16
+[15-Nov-2019 01:11:31 UTC] PHP Warning:  PDOStatement::execute() expects parameter 1 to be array, string given in /home/djkm6in9pewh/cis4270/PHP_Fashion/db/UserDAM.php on line 26
+[15-Nov-2019 01:11:31 UTC] PHP Notice:  Trying to get property 'password' of non-object in /home/djkm6in9pewh/cis4270/PHP_Fashion/viewModels/LoginVM.php on line 53
+[15-Nov-2019 01:11:31 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 01:11:31 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 01:11:31 UTC] PHP Notice:  Undefined index: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 01:11:31 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 01:11:32 UTC] PHP Notice:  Undefined variable: regErr in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 85
+[15-Nov-2019 01:11:32 UTC] PHP Notice:  Undefined variable: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 91
+[15-Nov-2019 01:12:42 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 01:12:42 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 01:12:42 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/home.php on line 1
+[15-Nov-2019 01:12:42 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 01:12:42 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 01:12:42 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/home.php on line 1
+[15-Nov-2019 01:12:45 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/public_html/views/header.php on line 2
+[15-Nov-2019 01:12:45 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 01:12:45 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 01:12:45 UTC] PHP Notice:  Undefined index: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 01:12:45 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 01:12:45 UTC] PHP Notice:  Undefined variable: delay in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 8
+[15-Nov-2019 01:12:45 UTC] PHP Notice:  Undefined variable: regErr in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 85
+[15-Nov-2019 01:12:45 UTC] PHP Notice:  Undefined variable: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 91
+[15-Nov-2019 01:12:58 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/public_html/views/header.php on line 2
+[15-Nov-2019 01:12:58 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/userHome.php on line 3
+[15-Nov-2019 01:13:06 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/public_html/views/header.php on line 2
+[15-Nov-2019 01:13:06 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/newPost.php on line 3
+[15-Nov-2019 01:13:10 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/public_html/views/header.php on line 2
+[15-Nov-2019 01:13:10 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/userHome.php on line 3
+[15-Nov-2019 01:13:16 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/aboutUs.php on line 1
+[15-Nov-2019 01:13:18 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 01:13:18 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 01:13:18 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/home.php on line 1
+[15-Nov-2019 01:14:15 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/public_html/views/header.php on line 2
+[15-Nov-2019 01:14:15 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 01:14:15 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 01:14:15 UTC] PHP Notice:  Undefined index: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 01:14:15 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 01:14:15 UTC] PHP Notice:  Undefined variable: delay in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 8
+[15-Nov-2019 01:14:15 UTC] PHP Notice:  Undefined variable: regErr in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 85
+[15-Nov-2019 01:14:15 UTC] PHP Notice:  Undefined variable: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 91
+[15-Nov-2019 01:14:24 UTC] PHP Notice:  Trying to get property 'userType' of non-object in /home/djkm6in9pewh/cis4270/PHP_Fashion/controllers/UserController.php on line 137
+[15-Nov-2019 01:14:24 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 01:14:24 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 01:14:24 UTC] PHP Notice:  Undefined index: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 01:14:24 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 01:14:25 UTC] PHP Notice:  Undefined variable: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 91
+[15-Nov-2019 01:14:50 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/public_html/views/header.php on line 2
+[15-Nov-2019 01:14:50 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 01:14:50 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 01:14:50 UTC] PHP Notice:  Undefined index: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 01:14:50 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[15-Nov-2019 01:14:50 UTC] PHP Notice:  Undefined variable: delay in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 8
+[15-Nov-2019 01:14:51 UTC] PHP Notice:  Undefined variable: regErr in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 85
+[15-Nov-2019 01:14:51 UTC] PHP Notice:  Undefined variable: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 91
+[15-Nov-2019 01:14:56 UTC] PHP Notice:  Undefined property: User::$enteredUserEmail in /home/djkm6in9pewh/cis4270/PHP_Fashion/models/User.php on line 25
+[15-Nov-2019 01:14:56 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/public_html/views/header.php on line 2
+[15-Nov-2019 01:14:56 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/userHome.php on line 3
+[15-Nov-2019 03:23:50 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 03:23:50 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 03:23:50 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/home.php on line 1
+[15-Nov-2019 03:41:57 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 03:41:57 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 03:41:57 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/home.php on line 1
+[15-Nov-2019 03:41:58 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 03:41:58 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 03:41:58 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/home.php on line 1
+[15-Nov-2019 05:37:44 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 05:37:44 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 05:37:44 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/home.php on line 1
+[15-Nov-2019 05:37:44 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 05:37:44 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 05:37:44 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/home.php on line 1
+[15-Nov-2019 14:27:58 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 14:27:58 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 14:27:58 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/home.php on line 1
+[15-Nov-2019 14:27:58 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 14:27:58 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 14:27:58 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/home.php on line 1
+[15-Nov-2019 14:27:58 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 14:27:58 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 14:27:58 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/home.php on line 1
+[15-Nov-2019 17:19:46 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 17:19:46 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 17:19:46 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/home.php on line 1
+[15-Nov-2019 19:42:08 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 19:42:08 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[15-Nov-2019 19:42:08 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/home.php on line 1
+[16-Nov-2019 02:07:18 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[16-Nov-2019 02:07:18 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[16-Nov-2019 02:07:18 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/home.php on line 1
+[16-Nov-2019 07:11:58 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[16-Nov-2019 07:11:58 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[16-Nov-2019 07:11:58 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/home.php on line 1
+[16-Nov-2019 07:32:14 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[16-Nov-2019 07:32:14 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[16-Nov-2019 07:32:14 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/home.php on line 1
+[16-Nov-2019 09:46:54 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/public_html/views/header.php on line 2
+[16-Nov-2019 09:46:54 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[16-Nov-2019 09:46:54 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[16-Nov-2019 09:46:54 UTC] PHP Notice:  Undefined index: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[16-Nov-2019 09:46:54 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[16-Nov-2019 09:46:54 UTC] PHP Notice:  Undefined variable: delay in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 8
+[16-Nov-2019 09:46:54 UTC] PHP Notice:  Undefined variable: regErr in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 85
+[16-Nov-2019 09:46:54 UTC] PHP Notice:  Undefined variable: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 91
+[16-Nov-2019 11:42:41 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[16-Nov-2019 11:42:41 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[16-Nov-2019 11:42:41 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/home.php on line 1
+[16-Nov-2019 12:50:43 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[16-Nov-2019 12:50:43 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[16-Nov-2019 12:50:43 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/home.php on line 1
+[16-Nov-2019 13:36:57 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[16-Nov-2019 13:36:57 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[16-Nov-2019 13:36:57 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/home.php on line 1
+[16-Nov-2019 13:54:50 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[16-Nov-2019 13:54:50 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[16-Nov-2019 13:54:50 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/home.php on line 1
+[16-Nov-2019 15:23:55 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[16-Nov-2019 15:23:55 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[16-Nov-2019 15:23:55 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/home.php on line 1
+[16-Nov-2019 22:18:40 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[16-Nov-2019 22:18:40 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[16-Nov-2019 22:18:40 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/home.php on line 1
+[17-Nov-2019 03:07:30 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[17-Nov-2019 03:07:30 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[17-Nov-2019 03:07:30 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/home.php on line 1
+[17-Nov-2019 03:07:37 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[17-Nov-2019 03:07:37 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[17-Nov-2019 03:07:37 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/home.php on line 1
+[17-Nov-2019 03:07:40 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/public_html/views/header.php on line 2
+[17-Nov-2019 03:07:40 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[17-Nov-2019 03:07:40 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[17-Nov-2019 03:07:40 UTC] PHP Notice:  Undefined index: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[17-Nov-2019 03:07:40 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[17-Nov-2019 03:07:40 UTC] PHP Notice:  Undefined variable: delay in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 8
+[17-Nov-2019 03:07:41 UTC] PHP Notice:  Undefined variable: regErr in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 85
+[17-Nov-2019 03:07:41 UTC] PHP Notice:  Undefined variable: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 91
+[17-Nov-2019 03:07:46 UTC] PHP Notice:  Undefined property: User::$enteredUserEmail in /home/djkm6in9pewh/cis4270/PHP_Fashion/models/User.php on line 25
+[17-Nov-2019 03:07:46 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/public_html/views/header.php on line 2
+[17-Nov-2019 03:07:46 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/userHome.php on line 3
+[17-Nov-2019 03:08:00 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/public_html/views/header.php on line 2
+[17-Nov-2019 03:08:00 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/newPost.php on line 3
+[17-Nov-2019 03:08:06 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/public_html/views/header.php on line 2
+[17-Nov-2019 03:08:07 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/userHome.php on line 3
+[17-Nov-2019 03:08:08 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[17-Nov-2019 03:08:08 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[17-Nov-2019 03:08:08 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/home.php on line 1
+[17-Nov-2019 16:40:54 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[17-Nov-2019 16:40:54 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[17-Nov-2019 16:40:54 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/home.php on line 1
+[17-Nov-2019 16:41:10 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[17-Nov-2019 16:41:10 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[17-Nov-2019 16:41:10 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/home.php on line 1
+[18-Nov-2019 04:14:32 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[18-Nov-2019 04:14:32 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[18-Nov-2019 04:14:32 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/home.php on line 1
+[18-Nov-2019 07:18:10 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[18-Nov-2019 07:18:10 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[18-Nov-2019 07:18:11 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/home.php on line 1
+[18-Nov-2019 09:21:03 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[18-Nov-2019 09:21:03 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[18-Nov-2019 09:21:03 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/home.php on line 1
+[18-Nov-2019 09:21:03 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[18-Nov-2019 09:21:03 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[18-Nov-2019 09:21:03 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/home.php on line 1
+[18-Nov-2019 09:21:07 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[18-Nov-2019 09:21:07 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[18-Nov-2019 09:21:07 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/aboutUs.php on line 1
+[18-Nov-2019 09:21:09 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/public_html/views/header.php on line 2
+[18-Nov-2019 09:21:09 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[18-Nov-2019 09:21:09 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[18-Nov-2019 09:21:09 UTC] PHP Notice:  Undefined index: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[18-Nov-2019 09:21:09 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[18-Nov-2019 09:21:09 UTC] PHP Notice:  Undefined variable: delay in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 8
+[18-Nov-2019 09:21:09 UTC] PHP Notice:  Undefined variable: regErr in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 85
+[18-Nov-2019 09:21:09 UTC] PHP Notice:  Undefined variable: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 91
+[18-Nov-2019 09:21:19 UTC] PHP Notice:  Trying to get property 'userType' of non-object in /home/djkm6in9pewh/cis4270/PHP_Fashion/controllers/UserController.php on line 137
+[18-Nov-2019 09:21:19 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[18-Nov-2019 09:21:19 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[18-Nov-2019 09:21:19 UTC] PHP Notice:  Undefined index: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[18-Nov-2019 09:21:19 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[18-Nov-2019 09:21:20 UTC] PHP Notice:  Undefined variable: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 91
+[18-Nov-2019 09:21:30 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[18-Nov-2019 09:21:30 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[18-Nov-2019 09:21:30 UTC] PHP Notice:  Undefined index: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[18-Nov-2019 09:21:30 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[18-Nov-2019 09:21:31 UTC] PHP Notice:  Undefined variable: regErr in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 85
+[18-Nov-2019 09:21:31 UTC] PHP Notice:  Undefined variable: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 91
+[18-Nov-2019 09:21:42 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/public_html/views/header.php on line 2
+[18-Nov-2019 09:21:42 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/userHome.php on line 3
+[18-Nov-2019 09:21:42 UTC] PHP Notice:  Trying to get property 'userType' of non-object in /home/djkm6in9pewh/cis4270/PHP_Fashion/controllers/UserController.php on line 137
+[18-Nov-2019 09:21:42 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[18-Nov-2019 09:21:42 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[18-Nov-2019 09:21:42 UTC] PHP Notice:  Undefined index: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[18-Nov-2019 09:21:42 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[18-Nov-2019 09:21:43 UTC] PHP Notice:  Undefined variable: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 91
+[18-Nov-2019 09:21:50 UTC] PHP Notice:  Undefined property: User::$enteredUserEmail in /home/djkm6in9pewh/cis4270/PHP_Fashion/models/User.php on line 25
+[18-Nov-2019 09:21:50 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/public_html/views/header.php on line 2
+[18-Nov-2019 09:21:50 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/userHome.php on line 3
+[18-Nov-2019 09:22:16 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/home.php on line 1
+[18-Nov-2019 09:22:24 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[18-Nov-2019 09:22:24 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[18-Nov-2019 09:22:24 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/home.php on line 1
+[18-Nov-2019 09:26:57 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[18-Nov-2019 09:26:57 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[18-Nov-2019 09:26:57 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/home.php on line 1
+[18-Nov-2019 09:28:36 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/public_html/views/header.php on line 2
+[18-Nov-2019 09:28:36 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[18-Nov-2019 09:28:36 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[18-Nov-2019 09:28:36 UTC] PHP Notice:  Undefined index: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[18-Nov-2019 09:28:36 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 2
+[18-Nov-2019 09:28:36 UTC] PHP Notice:  Undefined variable: delay in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 8
+[18-Nov-2019 09:28:36 UTC] PHP Notice:  Undefined variable: regErr in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 85
+[18-Nov-2019 09:28:36 UTC] PHP Notice:  Undefined variable: token in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/loginReg.php on line 91
+[18-Nov-2019 09:28:41 UTC] PHP Notice:  Undefined property: User::$enteredUserEmail in /home/djkm6in9pewh/cis4270/PHP_Fashion/models/User.php on line 25
+[18-Nov-2019 09:28:41 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/public_html/views/header.php on line 2
+[18-Nov-2019 09:28:41 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/userHome.php on line 3
+[18-Nov-2019 09:29:10 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[18-Nov-2019 09:29:10 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[18-Nov-2019 09:29:10 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/home.php on line 1
+[18-Nov-2019 09:29:12 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[18-Nov-2019 09:29:12 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[18-Nov-2019 09:29:12 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/home.php on line 1
+[18-Nov-2019 09:48:35 UTC] PHP Notice:  Undefined index: userName in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[18-Nov-2019 09:48:35 UTC] PHP Notice:  Undefined index: email in /home/djkm6in9pewh/public_html/views/header.php on line 105
+[18-Nov-2019 09:48:35 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/djkm6in9pewh/cis4270/PHP_Fashion/views/home.php on line 1
